@@ -1,5 +1,3 @@
-# Git-Cheat-sheet
-
 
 # 📘 Git Cheat Sheet
 
@@ -9,8 +7,8 @@ A quick reference guide for essential Git commands 🚀
 
 ## 🚀 Getting Started
 
-### Initialize a Repository
 ```bash
+### Initialize a Repository
 git init
 
 #Clone a Repository
